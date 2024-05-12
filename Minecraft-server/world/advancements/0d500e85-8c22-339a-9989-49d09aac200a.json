@@ -1,0 +1,582 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_fence": {
+    "criteria": {
+      "has_dry_bundle": "2024-04-01 09:12:38 +0000",
+      "has_dry_bamboo": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
+    "criteria": {
+      "has_plank": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/echo_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsprout_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_straw": "2024-04-01 09:45:52 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-04-01 09:45:52 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_mushroom_fields": "2024-04-01 09:12:38 +0000",
+      "enter_swamp": "2024-04-01 09:12:38 +0000",
+      "enter_dark_forest": "2024-04-01 09:12:38 +0000",
+      "enter_badlands": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_bundle": {
+    "criteria": {
+      "has_bamboo": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_door": {
+    "criteria": {
+      "has_dry_bundle": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2024-04-01 09:45:52 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_stairs": {
+    "criteria": {
+      "has_bundle": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2024-04-01 09:45:52 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_ladder": {
+    "criteria": {
+      "has_dry_bamboo": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-04-01 09:31:41 +0000",
+      "minecraft:forest": "2024-04-01 09:12:38 +0000",
+      "minecraft:plains": "2024-04-01 09:13:00 +0000"
+    },
+    "done": false
+  },
+  "bambooeverything:recipes/bamboo_door": {
+    "criteria": {
+      "has_bundle": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_bundle": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_stairs": {
+    "criteria": {
+      "has_dry_bundle": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_trapdoor": {
+    "criteria": {
+      "has_dry_bundle": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
+    "criteria": {
+      "has_plank": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_slab": {
+    "criteria": {
+      "has_dry_bundle": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/sawmill": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2024-04-01 09:45:52 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_bundle_uncrafting": {
+    "criteria": {
+      "has_bundle": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2024-04-01 09:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table": {
+    "criteria": {
+      "has_bamboo": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2024-04-01 09:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_slab": {
+    "criteria": {
+      "has_bundle": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_button_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_fence_gate": {
+    "criteria": {
+      "has_dry_bundle": "2024-04-01 09:12:38 +0000",
+      "has_dry_bamboo": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "goodending:recipes/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_ladder": {
+    "criteria": {
+      "has_bamboo": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_bundle": {
+    "criteria": {
+      "has_dry_bamboo": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_boards": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/springshroom_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "silver_knife": "2024-04-01 09:32:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2024-04-01 09:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "goodending:recipes/muddy_oak_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_boards_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "frosted_friends:frosted_friends": {
+    "criteria": {
+      "frosted_friends": "2024-04-01 09:12:36 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/chestnut_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-04-01 09:12:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2024-04-01 09:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_fence_gate": {
+    "criteria": {
+      "has_bamboo": "2024-04-01 09:12:38 +0000",
+      "has_bundle": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2024-04-01 09:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-04-01 09:34:06 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_fence": {
+    "criteria": {
+      "has_bamboo": "2024-04-01 09:12:38 +0000",
+      "has_bundle": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
+    "criteria": {
+      "has_dry_bundle": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-04-01 09:12:37 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

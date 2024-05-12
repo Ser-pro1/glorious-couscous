@@ -1,0 +1,17 @@
+{
+	id: "0d500e85-8c22-339a-9989-49d09aac200a"
+	type: "player"
+	player_name: "Requiem_Serprime"
+	ranks: {
+		0d500e85-8c22-339a-9989-49d09aac200a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Requiem_Serprime"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59AA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

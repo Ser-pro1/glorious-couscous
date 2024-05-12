@@ -1,0 +1,15 @@
+{
+	id: "53f1a6c3-26a9-4737-9018-8c0c02d144a7"
+	type: "player"
+	player_name: "Termin17tre"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Termin17tre"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

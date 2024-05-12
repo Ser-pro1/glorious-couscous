@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "43fdc002c15a372c814e603b900dc1ca"
+	name: "Prototype1964"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

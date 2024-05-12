@@ -1,0 +1,15 @@
+{
+	id: "6c07fb2d-8d27-4e15-b0f5-34d9e7b85363"
+	type: "player"
+	player_name: "TSUZ008"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "TSUZ008"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

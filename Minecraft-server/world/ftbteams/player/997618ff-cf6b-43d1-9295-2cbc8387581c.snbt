@@ -1,0 +1,15 @@
+{
+	id: "997618ff-cf6b-43d1-9295-2cbc8387581c"
+	type: "player"
+	player_name: "obvdarius"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "obvdarius"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

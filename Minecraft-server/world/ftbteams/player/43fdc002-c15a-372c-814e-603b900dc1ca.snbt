@@ -1,0 +1,17 @@
+{
+	id: "43fdc002-c15a-372c-814e-603b900dc1ca"
+	type: "player"
+	player_name: "Prototype1964"
+	ranks: {
+		43fdc002-c15a-372c-814e-603b900dc1ca: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Prototype1964"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

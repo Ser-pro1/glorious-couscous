@@ -1,0 +1,27 @@
+{
+	id: "10227946-f23f-49b0-9787-adbd40a14670"
+	type: "party"
+	owner: "53f1a6c3-26a9-4737-9018-8c0c02d144a7"
+	ranks: {
+		4300c6af-6ebd-4190-b5f5-a91782606c8c: "member"
+		53f1a6c3-26a9-4737-9018-8c0c02d144a7: "owner"
+		6c07fb2d-8d27-4e15-b0f5-34d9e7b85363: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Apestosos"
+		"ftbteams:description": "Me la suda cabrón"
+		"ftbteams:color": "#B8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1711969932831L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Termin17tre\"}]}" }
+		{ from: "53f1a6c3-26a9-4737-9018-8c0c02d144a7", date: 1711969932839L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Prototype1964\"}]}" }
+		{ from: "53f1a6c3-26a9-4737-9018-8c0c02d144a7", date: 1711969932839L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Requiem_Serprime\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1711969936729L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Prototype1964\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1711969942203L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Requiem_Serprime\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712078245825L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Requiem_Serprime\"}]}" }
+		{ from: "53f1a6c3-26a9-4737-9018-8c0c02d144a7", date: 1713722884863L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"TSUZ008\"}]}" }
+	]
+	extra: { }
+}

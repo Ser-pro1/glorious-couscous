@@ -1,0 +1,17 @@
+{
+	id: "4958253c-7548-4842-940a-d94b8aaa67f3"
+	type: "player"
+	player_name: "manupatata"
+	ranks: {
+		4958253c-7548-4842-940a-d94b8aaa67f3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "manupatata"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFDD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

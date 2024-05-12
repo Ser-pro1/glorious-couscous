@@ -1,0 +1,25 @@
+{
+	id: "b00d05d1-d542-4b61-a22e-1b7f96a8a932"
+	type: "party"
+	owner: "d68dfe51-9825-4ca2-96c6-fe83572fbbd3"
+	ranks: {
+		997618ff-cf6b-43d1-9295-2cbc8387581c: "member"
+		d68dfe51-9825-4ca2-96c6-fe83572fbbd3: "owner"
+		6c07fb2d-8d27-4e15-b0f5-34d9e7b85363: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Oh my god"
+		"ftbteams:description": "que chiiiillllleeee cabron"
+		"ftbteams:color": "#59FF5F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712078288300L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Requiem_Serprime\"}]}" }
+		{ from: "d68dfe51-9825-4ca2-96c6-fe83572fbbd3", date: 1712078288307L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"TSUZ008\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712078293721L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TSUZ008\"}]}" }
+		{ from: "d68dfe51-9825-4ca2-96c6-fe83572fbbd3", date: 1712078495847L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"obvdarius\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712078530732L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"obvdarius\"}]}" }
+	]
+	extra: { }
+}
